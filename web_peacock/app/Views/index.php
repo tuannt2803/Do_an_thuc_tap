@@ -11,7 +11,7 @@
     <meta name="keywords" content="ecommerce, electronics store, Fashion store, furniture store,  bootstrap 4, clean, minimal, modern, online store, responsive, retail, shopping, ecommerce store">
 
     <!-- SITE TITLE -->
-    <title>PEACOCK</title>
+    <title>PEACOCK Thời trang nữ</title>
     <!-- Favicon Icon -->
     <link rel="shortcut icon" type="image/x-icon" href="<?= base_url() ?>/public/client/assets/images/favicon.png">
     <!-- Animation CSS -->
