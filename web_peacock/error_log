@@ -1,0 +1,19 @@
+[10-May-2021 00:31:53 Asia/Ho_Chi_Minh] PHP Warning:  require(): Filename cannot be empty in /home/peacockt/public_html/index.php on line 32
+[10-May-2021 00:31:53 Asia/Ho_Chi_Minh] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/peacockt/public_html/index.php on line 32
+[10-May-2021 00:32:01 Asia/Ho_Chi_Minh] PHP Warning:  require(): Filename cannot be empty in /home/peacockt/public_html/index.php on line 32
+[10-May-2021 00:32:01 Asia/Ho_Chi_Minh] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/peacockt/public_html/index.php on line 32
+[04-Jul-2021 11:40:46 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:41:58 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:55:19 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:55:26 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:55:53 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:57:04 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:57:31 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:57:43 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:57:43 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:57:44 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:57:44 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:57:44 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 11:59:20 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[04-Jul-2021 12:04:02 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Admin\product::edit() in /home/peacockt/public_html/app/Controllers/admin/product.php on line 181
+[14-Sep-2021 13:10:58 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/peacockt/public_html/app/Views/admin/supplier/detail.php on line 23
