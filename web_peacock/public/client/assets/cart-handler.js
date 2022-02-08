@@ -19,7 +19,7 @@ addToCart = (event, element) => {
   }
   $.toast({
     heading: 'Đã thêm vào giỏ hàng ',
-    text: '<a href="http://group16utt.pw/checkout">Xem giỏ hàng</a>',
+    text: '<a href="http://192.168.74.128:8881/checkout">Xem giỏ hàng</a>',
     showHideTransition: 'slide',
     icon: 'success',
     position: 'bottom-right',
