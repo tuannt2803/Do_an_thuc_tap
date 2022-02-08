@@ -42,7 +42,7 @@ deleteItem = (event, element) => {
 getProductById = (id, quantity) => {
   //get product from sv
   $.ajax({
-    url: "http://group16utt.pw/product/getById/"+id,
+    url: "http://192.168.74.128:8881/product/getById/"+id,
     type: "GET",
     dataType: "json",
     data: {
